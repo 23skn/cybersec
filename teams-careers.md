@@ -14,7 +14,7 @@
 5. отвечать на инциденты и расследовать их
 6. проводить тренинги среди коллег
 специалисты:
-- Security Operations Center (SOC), where we cover Threat Intelligence
+- [Security Operations Center (SOC)](soc.md), where we cover Threat Intelligence
 - Digital Forensics and Incident Response (DFIR), where we also cover Malware Analysis (Virus, Trojan Horse, Ransomware)
 # red team [(offensive security)](offsec.md)
 цель этой команды смоделировать реальную атаку, определить уязвимости системы и протестировать надежность стратегии blue team. они могут находиться как в самой организации, так и быть наняты извне. основной род деятельности:
