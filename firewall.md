@@ -38,6 +38,7 @@ Demilitarized Zone (Демилитаризованная зона)
 - **Прокси**
 - **IDS / IPS**
 - **Общедоступные серверы**[^2]
+![](pics/dmz.png)
 # источники
 [^1]:https://imvk.net/cisco/urok-7-setevye-ustrojstva
 [^2]:https://roadmap.sh/cyber-security

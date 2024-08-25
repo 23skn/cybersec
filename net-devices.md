@@ -1,3 +1,4 @@
+![](pics/devices.png)
 # Хаб (hub)
 (half-duplex) 
 
