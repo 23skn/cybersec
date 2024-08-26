@@ -21,5 +21,5 @@ Access Control List Списки доступа
 4. Разрешить доступ внутренним пользователям на серверы DMZ
 5. Запретить компьютерам доступ в интернет и DMZ, то есть они могут работать только во внутренней сети.
 # источники
-[^1]: https://imvk.net/cisco/urok-38-spiski-dostupa-acl-access-control-list
-[^2]: https://roadmap.sh/cyber-security
+1. https://imvk.net/cisco/urok-38-spiski-dostupa-acl-access-control-list
+2. https://roadmap.sh/cyber-security
