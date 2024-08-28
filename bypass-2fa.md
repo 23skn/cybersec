@@ -12,6 +12,6 @@
 1. сообщение об обновлении персональных данных или с ссылкой
 2. переход жертвой на фишинговый сайт и ввод данных (в том числе otp)
 3. попытка мошенника попасть в аккаунт через полученные данные
-# источники
+
 [^1]: https://securelist.ru/2fa-phishing/109677/
 [^2]: https://securelist.ru/phishing-kit-market-whats-inside-off-the-shelf-phishing-packages/104790/

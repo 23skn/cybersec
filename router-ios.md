@@ -26,4 +26,4 @@
 8. Как только IOS будет загружена в RAM система начнет поиск файла конфигурации в NVRAM с последующей загрузкой его в  RAM
 9. Если файл не найден, то система перейдет в режим SETUP (первоначальной загрузки).
 # источник
-https://imvk.net/cisco/urok-42-poryadok-zagruzki-operatsionnoj-sistemy-cisco-ios
+1. https://imvk.net/cisco/urok-42-poryadok-zagruzki-operatsionnoj-sistemy-cisco-ios

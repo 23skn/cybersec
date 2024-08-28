@@ -15,4 +15,4 @@ Fast Flux - это технология DNS, используемая ботне
 Нечеткое хэширование (Fuzzy hashing) помогает сопоставить два файла с незначительными различиями на основе значений нечеткого хэша. Его ещё могут называть контекстно-зависимые кусочные хэши (сontext triggered piecewise hashes - CTPH). Подобный ресурс представлен [здесь](https://ssdeep-project.github.io/ssdeep/index.html). 
 # TTPs
 # источник
-https://tryhackme.com/r/room/pyramidofpainax
+1. https://tryhackme.com/r/room/pyramidofpainax

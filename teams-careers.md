@@ -16,7 +16,7 @@
 специалисты:
 - [Security Operations Center (SOC)](soc.md), where we cover Threat Intelligence
 - Digital Forensics and Incident Response (DFIR), where we also cover Malware Analysis (Virus, Trojan Horse, Ransomware)
-# red team [(offensive security)](offsec.md)
+# red team (offensive security)
 цель этой команды смоделировать реальную атаку, определить уязвимости системы и протестировать надежность стратегии blue team. они могут находиться как в самой организации, так и быть наняты извне. основной род деятельности:
 1. регулярно производить попытки проникновения  и оценивать ситуацию
 2. использовать техники социальной инженерии
