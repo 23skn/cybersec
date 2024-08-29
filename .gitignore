@@ -2,3 +2,9 @@
 res/
 # i use this repository as an obisidian vault, download and try it too
 .obsidian/
+
+
+
+
+# Ignore Smart Connections folder
+.smart-connections
